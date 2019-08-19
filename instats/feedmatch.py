@@ -1,5 +1,5 @@
 from colorstats import Photoset, Photo
-from .utils.feedmatch_utils import *
+from .feedmatch_utils import *
 import requests
 from io import BytesIO
 

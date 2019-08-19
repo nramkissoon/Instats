@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="instats",
-    version="1.0.0",
+    version="2.0.0",
     author="Nicholas Ramkissoon",
     description="Package for processing statistics from Instagram profiles",
     long_description=long_description,
